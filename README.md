@@ -24,8 +24,16 @@ anomaly_map_integration.py → Spatial clustering & map visualization
 Preprocessed CSV files are used in the deployed dashboard for smooth execution.
 
 ---
+# Setup Instructions & Deployment
 
-## Setup Instructions (Local Run)
+## 1. Streamlit cloud (Live Demo)
+
+Access the live dashboard here:
+https://aravalli-intelligence-eco-script.streamlit.app
+
+## or
+
+## 2. Setup Instructions (Local Run)
 
 ### 1️. Clone the Repository
 
